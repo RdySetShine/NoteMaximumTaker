@@ -1,4 +1,4 @@
-# Professional Note Taker
+# NoteMaximumTaker
 
 # ![](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -35,10 +35,13 @@ If I click on the Write icon (plus sign) in the navigation at the top of the pag
 
 This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
+## Creator
+
+Bruno Rosarini
+
 ## Contributing
 
 - Austin Grech
-- Keegan Omel
 
 ## Tests
 
