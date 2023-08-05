@@ -57,6 +57,6 @@ URL:
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarii](https://github.com/BrunoRosarini)
+- GitHub: [BrunoRosarini](https://github.com/BrunoRosarini)
 
 - Email: (rosarinibruno@gmail.com)
