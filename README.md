@@ -29,7 +29,9 @@ If I click on the Write icon (plus sign) in the navigation at the top of the pag
 
 ## Usage
 
+![Alt text](Assets/NoteMAXIMUM1.jpeg)
 
+![Alt text](Assets/NoteMAXIMUM2.jpeg)
 
 ## License
 
