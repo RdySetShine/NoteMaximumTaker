@@ -12,7 +12,7 @@ app.use(express.static('public'));
 app.use('/api', apiroutes)
 app.use('/', htmlroutes)
 // Start the server on the port
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`)); // starter for every index.js
+app.listen(PORT, () => console.log(`Listening on PORT: http://localhost:${PORT}`)); // starter for every index.js
 
 
 
