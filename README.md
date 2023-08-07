@@ -58,6 +58,6 @@ URL: https://maximumtaker-556232facc9a.herokuapp.com/
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarini](https://github.com/BrunoRosarini)
+- GitHub: [BrunoRosarini](https://github.com/RdySetShine/NoteMaximumTaker)
 
 - Email: (rosarinibruno@gmail.com)
